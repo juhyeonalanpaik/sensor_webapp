@@ -1,0 +1,42 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+web/.dart_tool/
+web/build/
+web/ios/
+web/android/
+web/linux/
+web/macos/
+web/windows/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.sqlite3
+
+# Logs
+*.log
+loggerdata/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Node (if any JS tools used)
+node_modules/
+
